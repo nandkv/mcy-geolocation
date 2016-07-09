@@ -1,0 +1,32 @@
+{
+  "name": "mcy-geolocation",
+  "version": "0.0.1",
+  "main": "./dist/mcy-geolocation.js",
+  "description": "Geolocation service.",
+  "homepage": "https://github.com/nandkv/mcy-geolocation",
+  "private": true,
+  "authors": [
+    "Nand"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/nandkv/mcy-geolocation.git"
+  },
+  "keywords": [
+    "angular"
+  ],
+  "license": "Nand",
+  "devDependencies": {
+    "angular": "1.2.x",
+    "angular-mocks": "~1.2.x"
+  },
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "build.conf.js",
+    "gulpfile.js",
+    "karma.conf.js",
+    "package.json"
+  ]
+}
