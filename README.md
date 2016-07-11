@@ -32,9 +32,9 @@ npm install mcy-geolocation
   var myapp = angular.module('myapp', ['mcyGeolocation'])
   ```
 
-3. Add copy-text directive to the wanted element, example:
-  ```html
-  <span copy-text>Text To Copy</span>
+3. Use the service in the module, example:
+  ```javascript
+  var locationResult = GeolocationService.getLocation();
   ```
 
 
