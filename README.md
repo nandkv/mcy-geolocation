@@ -41,3 +41,7 @@ npm install mcy-geolocation
 ## Examples
 
 ## Credits
+
+see documentation:
+    * <a href="testRel/myLib">myLib/</a>
+    * <a href="testRel/myLib/README.md">myLib/README.md</a>
